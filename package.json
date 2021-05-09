@@ -8,7 +8,7 @@
   "dependencies": {
     "bcrypt": "^3.0.8",
     "body-parser": "^1.19.0",
-    "bson": "^0.2.17",
+    "bson": "^1.1.4",
     "cors": "^2.5.2",
     "dactic": "0.8.9",
     "dactic-store-mongodb": "1.0.6",
